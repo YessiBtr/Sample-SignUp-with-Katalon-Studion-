@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>Story Sign Up</description>
+   <name>Example Sign Up Test Case</name>
+   <tag></tag>
+   <UUID>56b2c72c-5bd7-440d-9e2f-780f8459efa6</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>
